@@ -3,28 +3,28 @@ This Power BI Sales Dashboard provides insights into sales performance by month,
 
 🔍**Column-by-Column Breakdown**
 
-*Employee ID*
+(1) *Employee ID* :
 This is a unique code for each employee – like a roll number in school. It helps you identify and differentiate each person.
 
-*Department*
+(2) *Department*:
 This column tells us which department the employee works in, such as Finance, IT, Marketing, etc. This helps when analyzing departments individually or comparing them.
 
-*Designation*
+(3) *Designation*:
 This is the employee's job title or position—like Analyst, Manager, Executive, etc. It gives insight into the hierarchy or level of responsibility.
 
-*Date of Joining*
+(4) *Date of Joining*:
 This is interesting – it shows when the employee joined the company. This is useful for calculating tenure or understanding hiring trends.
 
-*Salary*
+(5) *Salary*:
 Everyone’s favorite column 😄 – this shows how much each employee earns. You could use this to analyze average pay, high/low earners, or salary growth if historical data is available.
 
-*Location*
+(6) *Location*:
 This tells us where the employee is based – like Karachi, Lahore, Islamabad, etc. It helps understand geographic distribution.
 
-*Employment Type*
+(7) *Employment Type*:
 Here, we find out whether the person is a full-time, part-time, contractual, etc, employee. Useful for cost analysis or workforce planning.
 
-*Gender*
+(8) *Gender*:
 This gives a gender label for each employee, which can be used for gender diversity analysis
 
 
